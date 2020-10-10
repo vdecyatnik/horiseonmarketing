@@ -20,3 +20,9 @@ Refactoring code to make a website more accesible will help people with disabili
 
 I succesfully replaced certain HTML tags with semantic HTML elements. This helped me consolidate repetitive CSS elements. I added descriptive alt attributes for all the images on the webpage. I also added comments in my CSS file to explain the code and to help edit it in the 
 future if needed. See examples below. 
+
+![image](https://user-images.githubusercontent.com/72056832/95646639-84cbb880-0a7f-11eb-95be-8129515474c2.png)
+
+# Motivation
+
+I enjoyed helping Horiseon Social Solutions refactor the code for their website. I learned some new skills and worked through some challenges that will help me be successful when working on future problems and projects.
